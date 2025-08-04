@@ -1,0 +1,13 @@
+### Post request to example server
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name" : "Divya Raj",
+  "email" : "test@gmail.com",
+  "address": "bangaalore",
+  "dateOfBirth": "1996-10-02"
+
+}
+
+###
