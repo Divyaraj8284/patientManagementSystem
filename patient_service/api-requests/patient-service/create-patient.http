@@ -5,7 +5,8 @@ Content-Type: application/json
 {
   "name" : "Divya Raj",
   "email" : "test@gmail.com",
-  "address": "bangaalore",
+  "address": "bangalore",
+  "registeredDate" : "1998-10-02",
   "dateOfBirth": "1996-10-02"
 
 }
